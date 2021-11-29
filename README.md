@@ -6,7 +6,7 @@
 - 💬 《五等分的花嫁》/《The Quintessential Quintuplets》列文虎克型粉丝
 - 📫 邮箱/微信: 820359253@qq.com
 
-
+npm run serve
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jary-lrj&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 

@@ -1,6 +1,6 @@
 你好 / Hello / Bonjour / こんにちは / 👋
 
-- 🔭 同济大学19级本科生 北京大学23级硕士 目前研究方向：Recommend Systems, Vector Quantization
+- 🔭 同济大学19级本科生 北京大学23级硕士 26级博士 目前研究方向：Dense Retrieval, RAG in LLM/Agent
 - 📫 820359253@qq.com
 
 
